@@ -1,0 +1,3 @@
+repas:
+    resource: "@RepasBundle/Controller/"
+    type:     annotation
